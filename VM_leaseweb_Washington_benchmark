@@ -1,0 +1,45 @@
+[root@XX1 ~]# sh bench.sh
+Benchmark started on Tue Sep 13 01:21:12 UTC 2016
+Full benchmark log: /root/bench.log
+
+System Info
+-----------
+Processor       : QEMU Virtual CPU version 1.2.1
+CPU Cores       : 8
+Frequency       : 2400.192 MHz
+Memory          : 7870 MB
+Swap            : 4095 MB
+Uptime          : 14 min,
+
+OS              : CentOS release 6.8 (Final)
+Arch            : x86_64 (64 Bit)
+Kernel          : 2.6.32-504.8.1.el6.x86_64
+Hostname        : XX1
+
+
+Speedtest (IPv4 only)
+---------------------
+Your public IPv4 is 198.7.63.38
+
+Location                Provider        Speed
+CDN                     Cachefly        84.0MB/s
+
+Atlanta, GA, US         Coloat          41.8MB/s
+Dallas, TX, US          Softlayer       20.9MB/s
+Seattle, WA, US         Softlayer       18.0MB/s
+San Jose, CA, US        Softlayer       19.5MB/s
+Washington, DC, US      Softlayer       3.72MB/s
+
+Tokyo, Japan            Linode          11.3MB/s
+Singapore               Softlayer       6.19MB/s
+
+Rotterdam, Netherlands  id3.net         12.6MB/s
+Haarlem, Netherlands    Leaseweb        31.0MB/s
+
+
+Disk Speed
+----------
+I/O (1st run)   : 73.9 MB/s
+I/O (2nd run)   : 83.0 MB/s
+I/O (3rd run)   : 81.4 MB/s
+Average I/O     : 79.4333 MB/s
