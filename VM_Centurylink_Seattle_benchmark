@@ -1,0 +1,29 @@
+----------------------------------------------------------------------
+CPU model            : Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz
+Number of cores      : 1
+CPU frequency        : 2600.000 MHz
+Total amount of ram  : 999 MB
+Total amount of swap : 2047 MB
+System uptime        : 0days, 0:13:54
+Load average         : 0.00, 0.01, 0.01
+OS                   : Debian GNU/Linux 7
+Arch                 : x86_64 (64 Bit)
+Kernel               : 3.2.0-4-amd64
+----------------------------------------------------------------------
+Node Name                        IPv4 address                Download Speed
+CacheFly                        205.234.175.175                110MB/s
+Linode, Tokyo, JP                106.187.96.148                3.96MB/s
+Linode, Singapore, SG                139.162.23.4                2.36MB/s
+Linode, London, UK                176.58.107.39                3.28MB/s
+Linode, Frankfurt, DE                139.162.130.8                2.82MB/s
+Linode, Fremont, CA                50.116.14.9                20.1MB/s
+Softlayer, Dallas, TX                173.192.68.18                10.8MB/s
+Softlayer, Seattle, WA                67.228.112.250                91.6MB/s
+Softlayer, Frankfurt, DE        159.122.69.4                1.63MB/s
+Softlayer, Singapore, SG        119.81.28.170                2.99MB/s
+Softlayer, HongKong, CN                119.81.130.170                3.13MB/s
+----------------------------------------------------------------------
+I/O speed(1st run) : 219 MB/s
+I/O speed(2nd run) : 243 MB/s
+I/O speed(3rd run) : 233 MB/s
+Average I/O speed  : 231.667 MB/s
