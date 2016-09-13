@@ -1,0 +1,7 @@
+yum group install "Development Tools"
+
+yum install gcc gd-devel GeoIP-devel
+
+wget http://nginx.org/download/nginx-1.9.7.tar.gz
+
+## then you can uncompress and configure, make and make install as usual
